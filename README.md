@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moniesha
 - 👀 I’m interested in Mechatronics
-- 🌱 I’m currently learning ROS2
+- 🌱 I’m currently working with ROS2 Humble, MoveIt2, Universal Robot Arms and Realsense 
 - 💞️ I’m looking to collaborate on waste sorting robots
 - 📫 How to reach me : u3285592@uni.canberra.edu.au
 
